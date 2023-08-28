@@ -1,0 +1,58 @@
+{
+   "create":{
+        "user":{
+            "name": "Steve jobs",
+            "email": "jobs@apple.com",
+            "password": "123456"
+        },
+        "task":{
+            "name": "Criar uma nova versão do Ipod",
+            "tags": ["ios", "music", "ipod"]
+        }
+   },
+   "duplicate":{
+    "user":{
+        "name": "Amanda Waller",
+        "email": "waller@chequemate.com",
+        "password": "123456"
+    },
+    "task":{
+        "name": "Recretar novos meta homanos",
+        "tags": []
+    }
+  },  
+   "tags_limit":{
+    "user":{
+        "name": "Carlos Villagran",
+        "email": "kiko@televisa.com",
+        "password": "123456"
+    },
+    "task":{
+        "name": "Estudar Python",
+        "tags": ["qax", "pytohon", "pip", "progamação"]
+    }
+  },
+  "done":{
+    "user":{
+        "name": "Tony Stark",
+        "email": "tony@stark.com",
+        "password": "123456"
+    },
+    "task":{
+        "name": "Criar uma nova IA",
+        "tags": ["jarvis", "ultron", "ark"]
+    } 
+  },
+  "delete":{
+    "user":{
+        "name": "Hank Pyn",
+        "email": "hank@pymtech.com",
+        "password": "123456"
+    },
+    "task":{
+        "name": "Criar a IA do Ultron",
+        "tags": ["Ultron", "ark"]
+    } 
+  }
+
+}
